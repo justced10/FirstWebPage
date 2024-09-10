@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: Blue;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 2.5em
+}
+h2{
+    color: white;
+    Text-align: left;
+     border-bottom: 2px solid ;
+}
+p{
+    color: black;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+ol{
+    color: yellow;
+}
+em{
+    color: red;
+    font-size: italic;
+}
+strong{
+    color:purple;
+    font-weight: bold;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+blockquote{
+    background color: green;
+    border-left: 5px solid;
+    padding: 10px;
+    font-style: italic;
+    margin: 20px 0;
+}
