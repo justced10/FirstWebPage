@@ -34,8 +34,21 @@ a{
     color:black;
     text-decoration: none;
 }
+li:nth-child(odd){
+    background-color: white;
+}
+li:nth-child(even){
+    background-color: lightgray;
+}
 a:hover {
+    color: red;
     text-decoration: underline;
+}
+p.main-text{
+    color: blue;
+}
+#Schedule li{
+    font-size: 18px;
 }
 blockquote{
     background color: green;
@@ -44,3 +57,4 @@ blockquote{
     font-style: italic;
     margin: 20px 0;
 }
+
